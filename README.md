@@ -13,6 +13,6 @@ In this repository, for TSmart you will find:
 
 * :x: The original tool (not available)
 
-This repository was constructed by Nitish Limaye under the supervision of Emerson Murphy-Hill. 
+This repository was constructed by [Nitish Limaye](https://github.com/nplimaye) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
 Thanks to [Yu Jiang](https://sites.google.com/site/jiangyu198964/) for his help in establishing this repository.
 
