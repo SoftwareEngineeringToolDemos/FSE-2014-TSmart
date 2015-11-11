@@ -1,7 +1,7 @@
 # FSE-2014-TSmart
-This repository contains information related to the tool TSmart presented Foundations of Software Engineering, 2014. The tool was originally presented in the paper [Tsmart-GalsBlock: a toolkit for modeling, validation, and synthesis of multi-clocked embedded systems](http://dl.acm.org.prox.lib.ncsu.edu/citation.cfm?id=2635868.2661664).
+This repository contains information related to the tool TSmart presented in Foundations of Software Engineering, 2014. The tool was originally presented in the paper [Tsmart-GalsBlock: a toolkit for modeling, validation, and synthesis of multi-clocked embedded systems](http://dl.acm.org.prox.lib.ncsu.edu/citation.cfm?id=2635868.2661664).
 
-This repository is not the original repository for this tool. Here are some links to the original project:
+This repository _is not_ the original repository for this tool. Here are some links to the original project:
 
 • [The Official Project Page](http://sts.thss.tsinghua.edu.cn/Tsmart-Edola/)
 
