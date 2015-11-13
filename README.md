@@ -11,7 +11,7 @@ In this repository, for TSmart you will find:
 
 * :x: Source code (not available)
 
-* :x: The original tool (not available)
+* :x: The original tool (not available: do not have permission to upload the binary)
 
 This repository was constructed by [Nitish Limaye](https://github.com/nplimaye) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
 Thanks to [Yu Jiang](https://sites.google.com/site/jiangyu198964/) for his help in establishing this repository.
