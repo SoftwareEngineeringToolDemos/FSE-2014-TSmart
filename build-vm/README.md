@@ -4,7 +4,7 @@ __Details of Virtual Machine created using vagrant__
 __Environment:__
 
 __Virtual Box used:__ [modernIE/w7-ie10](https://atlas.hashicorp.com/modernIE/boxes/w7-ie10)  
-This will be an Windows 7 64 bit box.
+This will be a Windows 7 64 bit box.
 
 __Folder content:__
 
