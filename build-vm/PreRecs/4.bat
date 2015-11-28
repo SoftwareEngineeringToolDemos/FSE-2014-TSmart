@@ -14,7 +14,7 @@ echo TSmart-Edola >> C://Installation.txt
 
 echo ------------------------------------------------------------------- >> C://Installation.txt
 echo Go to the Download section on TSmart-Edola homepage (http://sts.thss.tsinghua.edu.cn/Tsmart-Edola/). Download the TSmart-Edola Design Environment. >> C://Installation.txt
-
+echo Note: The User manual can be found at http://sts.thss.tsinghua.edu.cn/Tsmart-Edola/data/doc/manual.pdf and the Quick start manual can be found at http://sts.thss.tsinghua.edu.cn/Tsmart-Edola/data/doc/start.pdf >> C:\\Installation.txt
 echo Run the "EdolaModelingPlatform.exe" for running the tool. >> C://Installation.txt
 
 echo Note: Make sure that the JRE is installed before running the tool. >> C://Installation.txt
