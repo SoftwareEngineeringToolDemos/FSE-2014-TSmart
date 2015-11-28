@@ -49,7 +49,7 @@ echo This file contains information about >> C:\README.txt
 echo  * Running TSmart (TSmart-Edola) >> C:\README.txt
 echo  * Installation.txt >> C:\README.txt
 echo  * External_Links.txt >> C:\README.txt
-echo  * youTube_Link.txt >> C:\README.txt
+echo  * youTube_Link.bat >> C:\README.txt
 echo  * License.txt >> C:\README.txt
 echo ------------------------------------------------------------- >> C:\README.txt
 echo Running TSmart (TSmart-Edola) >> C:\README.txt
@@ -66,7 +66,7 @@ echo This file gives instructions on how to set up the environment for TSmart (T
 echo External Links.txt >> C:\README.txt
 echo ------------------------------------------------------------- >> C:\README.txt
 echo This file contains links to "FSE 2014 Paper", "TSmart-Edola"  and "JAVA Runtime Environment". >> C:\README.txt
-echo YouTube Link.txt >> C:\README.txt
+echo youtube_Link.bat >> C:\README.txt
 echo ------------------------------------------------------------- >> C:\README.txt
 echo This file contains link to the YouTube video on how to run the tool in the VM. >> C:\README.txt
 echo License.txt >> C:\README.txt
