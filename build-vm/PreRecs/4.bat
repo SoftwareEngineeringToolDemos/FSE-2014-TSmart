@@ -72,6 +72,7 @@ echo This file contains link to the YouTube video on how to run the tool in the 
 echo License.txt >> C:\README.txt
 echo ------------------------------------------------------------- >> C:\README.txt
 echo This file contains license agreements for Microsoft Dreamspark, Windows 7 Professional, Java SE Platform Products and JavaFX, Eclipse and Apache. >> C:\README.txt
+echo Special thanks to Yu Jiang and team for the tool. >> C:\README.txt
 
 move C:\\README.txt C:\Users\vagrant\Desktop
 
