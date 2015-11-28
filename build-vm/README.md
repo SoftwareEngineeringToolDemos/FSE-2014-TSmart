@@ -40,5 +40,6 @@ __Verification:__
 2. Click on windows button ( bottom left ) and click "About Java". 
 3. Click on the Shortcut.bat on the desktop or the TSmart-Edola excecutable (C:\Users\vagrant\Desktop\TSmart\Edola\EdolaModelingPlatform.exe) to run the tool.
 
-_References_: 
-Windows 7 Auto Login:http://superuser.com/questions/340396/how-do-i-change-automatic-logon-via-script-or-command-line
+__References:__
+
+1. [Windows 7 Auto Login](http://superuser.com/questions/340396/how-do-i-change-automatic-logon-via-script-or-command-line)
