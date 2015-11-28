@@ -12,13 +12,13 @@ Vagrant.configure(2) do |config|
 
   # Every Vagrant development environment requires a box. You can search for
   # boxes at https://atlas.hashicorp.com/search.
-  config.vm.box = "modernIE/w7-ie10"
+  config.vm.box = "designerror/windows-7"
   config.vm.hostname = "TSmart"
 
   config.vm.boot_timeout = 500
 
   config.vm.guest = :windows
-
+  #config.ssh.insert_key = false
   # Disable automatic box update checking. If you disable this, then
   # boxes will only be checked for updates when the user runs
   # `vagrant box outdated`. This is not recommended.
@@ -80,5 +80,11 @@ Vagrant.configure(2) do |config|
 
   # Install Java through Chocolatey
   config.vm.provision :shell, path: "PreRecs/2.bat"
+  
+  #Install 7zip through chocolatey, the tool package and related text files.
+  config.vm.provision :shell, path: "PreRecs/3.bat"
+  config.vm.provision :shell, path: "PreRecs/6.bat"
+  config.vm.provision :shell, path: "PreRecs/4.bat"
+  config.vm.provision :shell, path: "PreRecs/5.bat"
   
 end

@@ -1,1 +1,1 @@
-%ALLUSERSPROFILE%\chocolatey\bin\choco install jre8 -y
+%ALLUSERSPROFILE%\chocolatey\bin\choco install jre8 --force -y

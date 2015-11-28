@@ -32,6 +32,8 @@ __Steps to create a VM:__
 
 __Note:__ Vagrant will take some time to come up and it will install the necessary softwares. Please wait til it has finished installing. After the first bootup, the VM will ask for password. Do not enter anything and let the script do its work in background. The VM will reboot once and next time it will not ask for password. It may show a window related to key activation. Please click on close (the cross on top right side of the window). The desktop and the tool will automatically come up.
 
+__Disclaimer:__The VM installation process involved downloading large packages(up to 20 Mb) from internet. Please make sure to have a very good internet connection.
+
 __Verification:__
 
 1. Open terminal in Virtalbox gui
