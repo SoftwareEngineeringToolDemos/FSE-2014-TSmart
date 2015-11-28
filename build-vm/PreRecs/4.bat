@@ -43,6 +43,10 @@ echo https://www.youtube.com/watch?v=Y8P1StF8Uuk > C:\\youtube_Link.txt
 
 move C:\\youtube_Link.txt C:\Users\vagrant\Desktop
 
+echo start "" https://www.youtube.com/watch?v=Y8P1StF8Uuk > C:\\youtube_Link.bat
+
+move C:\\youtube_Link.bat C:\Users\vagrant\Desktop
+
 echo README > C:\README.txt
 echo ------------------------------------------------------------- >> C:\README.txt
 echo This file contains information about >> C:\README.txt
