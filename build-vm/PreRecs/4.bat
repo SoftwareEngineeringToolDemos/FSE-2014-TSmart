@@ -58,11 +58,12 @@ echo  * License.txt >> C:\README.txt
 echo ------------------------------------------------------------- >> C:\README.txt
 echo Running TSmart (TSmart-Edola) >> C:\README.txt
 echo ------------------------------------------------------------- >> C:\README.txt
-echo 1. Click on Open then click Project. Select the folder "C:\Users\vagrant\Desktop\TSmart\Edola_examples\BinaryAdder". Select the project (.project) and hit open. >> C:\README.txt
-echo 2. Double click on "Test" in the project list on the left side. >> C:\README.txt
-echo 3. Double click on a component (such as an adder component) to view its behavior details in form of a finite automata. >> C:\README.txt
-echo 4. Click on the "Export Model as Elts" button(the name can be seen by moving the cursor on top of the button image) on the toolbar (Just below the menu bar). The button is located at third position from right. >> C:\README.txt
-echo 5. Click on the respective buttons in the task bar (near the "Export Model as Elts" button) to generate code in VHDL, C and JAVA. >> C:\README.txt
+echo 1. Click on Shortcut.bat to launch the tool if not already open >> C:\README.txt
+echo 2. Click on Open then click Project. Select the folder "C:\Users\vagrant\Desktop\TSmart\Edola_examples\BinaryAdder". Select the project (.project) and hit open. >> C:\README.txt
+echo 3. Double click on "Test" in the project list on the left side. >> C:\README.txt
+echo 4. Double click on a component (such as an adder component) to view its behavior details in form of a finite automata. >> C:\README.txt
+echo 5. Click on the "Export Model as Elts" button(the name can be seen by moving the cursor on top of the button image) on the toolbar (Just below the menu bar). The button is located at third position from right. >> C:\README.txt
+echo 6. Click on the respective buttons in the task bar (near the "Export Model as Elts" button) to generate code in VHDL, C and JAVA. >> C:\README.txt
 echo Note: The Shortcut.bat file on desktop links to the executable of the tool and the executable file can be found at C:\Users\vagrant\Desktop\TSmart\Edola\EdolaModelingPlatform.exe >> C:\README.txt
 echo Installation.txt >> C:\README.txt
 echo ------------------------------------------------------------- >> C:\README.txt
